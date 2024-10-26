@@ -48,7 +48,7 @@ class Program
         //* შეასრულეთ explicit და implicit კონვერტაციებით ამ ტიპებს შორის(სადაც რომელია შესაძლებელი)
 
         int b1 = 5;
-        Double b2 = 2.5;
+        double b2 = 2.5;
         float b3 = 2 / 7;
         decimal b4 = 1 / 3;
 
